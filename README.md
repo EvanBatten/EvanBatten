@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m [Your Name Here]
+## 👋 Hi there, I’m Evan Batten
 
 I'm a developer and researcher with a background in **Biomedical Engineering and Computer Science**, passionate about building real-world systems that combine **AI, robotics, and embedded computing** to improve human life.
 
