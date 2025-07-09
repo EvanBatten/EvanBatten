@@ -35,7 +35,7 @@ Real-Time Systems • Signal Processing • ML for Biomedical Data • Embedded 
 
 ### 🌎 What I'm Exploring
 
-- 🌱 Currently diving deeper into **LLM agents**, **real-time control**, and **user-friendly productivity platforms** (building one now @Older Sister OS 🚀)
+- 🌱 Currently diving deeper into **LLM agents**, **real-time control**, and **user-friendly productivity platforms**
 - 📚 Learning more about **space systems software** and **autonomous robotics** (👀 @NASA JPL)
 - 🤝 Always open to meaningful collaborations at the intersection of **health, autonomy, and AI**
 
