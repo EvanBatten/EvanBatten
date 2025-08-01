@@ -23,7 +23,7 @@ I'm a developer and researcher with a background in **Biomedical Engineering and
 ### 🛠️ Tech Stack
 
 **Languages:**  
-Python, C++, JavaScript, Arduino (C), MATLAB, SQL  
+Python, C++, JavaScript, Arduino (C), TypeScript, SQL  
 
 **Tools & Frameworks:**  
 OpenCV, scikit-learn, PyTorch, TensorFlow, Seaborn, Pandas, MediaPipe, Supabase, Windsurf, Vercel, Git, ROS (beginner)
@@ -48,6 +48,4 @@ Real-Time Systems • Signal Processing • ML for Biomedical Data • Embedded 
 
 ---
 
-> *“Build things that are smart, human, and hard to break.”*
-
-✌️
+🤘
