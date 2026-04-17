@@ -1,51 +1,49 @@
-## 👋 Hi there, I’m Evan Batten
-
-I'm a developer and researcher with a background in **Biomedical Engineering and Computer Science**, passionate about building real-world systems that combine **AI, robotics, and embedded computing** to improve human life.
-
+# Hey, I'm Evan Batten 👋
+ 
+CS @ Johns Hopkins University (2027) • Building at the intersection of ML, systems, and product
+ 
 ---
-
-### 💡 What I Do
-
-- 🧠 **AI & Signal Processing for Healthcare**  
-  I helped lead the development of *iCrutch*, a real-time eye-tracking diagnostic pipeline for detecting nystagmus using Python, OpenCV, and scikit-learn. The system achieved **91% accuracy** on real patient data and won **2 awards** at JHU’s Design Day.
-
-- 🤖 **Robotics Software & Surgical Systems**  
-  As a Robotics Software Intern at JHU’s Computer Integrated Interventional Systems Lab, I engineered models to improve targeting precision on the **Galen surgical robot**, reducing tool error through real-time calibration and control optimization.
-
-- 💊 **Embedded Systems for Assistive Tech**  
-  I developed the software and firmware for a smart pill dispenser that helps Alzheimer’s patients adhere to medications — including custom **Arduino control logic** and a Python-based desktop interface. Our team won **1st place** at WashU’s BME HS Synapse competition.
-
-- 🧬 **Computational Research in CRISPR & Mental Health**  
-  I built a relational database of gene therapy targets for MDD and modeled CRISPR delivery systems using spatial pharmacokinetic simulations. My work evaluated feasibility and off-target effects in proposed therapeutic strategies.
-
+ 
+## 🔨 What I'm Working On
+ 
+- **[HazyEyes](https://www.hazyeyesai.com)** — Co-Founder & CTO. Mobile breathalyzer alternative using eye-tracking ML to detect alcohol/drug impairment in ~10 seconds. 97% classification accuracy, 200+ closed beta users, $300K non-dilutive funding secured.
+- **[iCrutch](https://engineering.jhu.edu/news/stabilizing-nystagmus-symptoms-with-ai-powered-smart-glasses/)** — Lead Software Engineer. Patent-pending system that autonomously detects nystagmus remotely and predicts extraocular muscle mapping. 94% accuracy in muscle targeting predictions, applicable to 2M+ patients across telehealth. Won **JHU Design Day 2025 Best Technical Contribution & People's Choice Awards**. Provisional patent granted.
 ---
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-Python, C++, JavaScript, Arduino (C), TypeScript, SQL  
-
-**Tools & Frameworks:**  
-OpenCV, scikit-learn, PyTorch, TensorFlow, Seaborn, Pandas, MediaPipe, Supabase, Windsurf, Vercel, Git, ROS (beginner)
-
-**Specialties:**  
-Real-Time Systems • Signal Processing • ML for Biomedical Data • Embedded Firmware • Robotics Control • Human-Centered Design
-
+ 
+## 💼 Experience
+ 
+**Software Engineering Contractor** @ [Narb](https://narb.ai) *(Northrop Grumman-backed AI startup)* — Summer 2025  
+Built a multi-LLM response aggregation engine (TypeScript, Convex) that raised blind eval accuracy 10% vs. single-model baseline. Scaled platform to 15k users and peak $10K MRR; shipped the core v2 dashboard (Next.js, React).
+ 
+**Robotics Software Intern** @ JHU CIIS Lab — Spring 2025  
+Developed a compliance model for the Galen surgical robot, improving targeting precision by 25% (2.1mm → 1.6mm error). Debugged 15+ robotic control routines, reducing bench test failures by 30%+.
+ 
+**Lead Software Engineer** @ iCrutch — Aug 2024–Present  
+Built patent-pending system for autonomous remote nystagmus detection and extraocular muscle mapping prediction. 94% accuracy in muscle targeting, signal processing pipeline (Butterworth filtering, Kalman smoothing), K-Means clustering on 3K+ video frames. Provisional patent granted.
+ 
 ---
-
-### 🌎 What I'm Exploring
-
-- 🌱 Currently diving deeper into **LLM agents**, **real-time control**, and **user-friendly productivity platforms**
-- 📚 Learning more about **space systems software** and **autonomous robotics** (👀 @NASA JPL)
-- 🤝 Always open to meaningful collaborations at the intersection of **health, autonomy, and AI**
-
+ 
+## 🚀 Projects
+ 
+| Project | Stack | Highlights |
+|---|---|---|
+| **HazyEyes** | React, Python, scikit-learn, PostgreSQL | 97% accuracy, 200+ users, $300K non-dilutive funding |
+| **Betyard** | Python, React Native, PostgreSQL | Football betting AI, 72% pick accuracy, developed with JHU Data Science PhDs (SARG research group) — mobile app in progress |
+ 
 ---
-
-### 📫 Let’s Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/evan-batten-9b82402bb/)  
-- ✉️ Email: ebatten28@gmail.com  
-
+ 
+## 🛠️ Tech
+ 
+```
+Languages   Java · Python · C/C++ · SQL · JavaScript · HTML/CSS
+Frameworks  React · Next.js · Node.js · PyTorch · TensorFlow · scikit-learn · OpenCV · ROS
+Tools       Git · Linux · Convex · PostgreSQL · Clerk
+```
+ 
 ---
-
-🤘
+ 
+## 📫 Let's Connect
+ 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/evan-batten/)
+- ✉️ ebatten28@gmail.com
+ 
