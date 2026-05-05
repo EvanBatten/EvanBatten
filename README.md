@@ -19,7 +19,7 @@ Built a multi-LLM response aggregation engine (TypeScript, Convex) that raised b
 Developed a compliance model for the Galen surgical robot, improving targeting precision by 25% (2.1mm → 1.6mm error). Debugged 15+ robotic control routines, reducing bench test failures by 30%+.
  
 **Lead Software Engineer** @ iCrutch — Aug 2024–Present  
-Built patent-pending system for autonomous remote nystagmus detection and extraocular muscle mapping prediction. 94% accuracy in muscle targeting, signal processing pipeline (Butterworth filtering, Kalman smoothing), K-Means clustering on 3K+ video frames. Provisional patent granted.
+Built patent-pending system for autonomous remote nystagmus detection and extraocular muscle mapping prediction. 94% accuracy in muscle targeting, signal processing pipeline (Butterworth filtering, Kalman smoothing), K-Means clustering on 3K+ video frames. Officially patented!
  
 ---
  
