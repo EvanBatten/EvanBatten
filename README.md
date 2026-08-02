@@ -14,7 +14,7 @@ CS @ Johns Hopkins University (2027) • Building at the intersection of ML, sys
 ## 💼 Experience
 
 **Software Engineering Intern** @ Johns Hopkins Applied Physics Laboratory · Summer 2026
-Built an ML/computer-vision auto-annotation tool (Python, OpenCV, PyTorch) that detects rooms, walls, and fixtures in floor plans at 96% accuracy, cutting labeling from 30+ minutes to under 2 per plan. Also built a virtual PLC emulator in Go that stands in for any CIP-protocol controller across 15+ configurations, so integration tests spin up in minutes instead of days on physical hardware.
+Built an ML/computer-vision auto-annotation tool (Python, OpenCV, PyTorch) that detects rooms, walls, and fixtures in floor plans, cutting labeling from 30+ minutes to under 2 per plan. Also built a virtual PLC emulator in Go that stands in for any CIP-protocol controller, so integration tests spin up in minutes instead of days on physical hardware.
 
 **Software & Data Engineer** @ JHU Sports Analytics Research Group (SARG) · Summer 2026
 Own the cloud infrastructure for SLUGGER, a Trackman-powered analytics platform deployed across 10+ Atlantic League (ALPB) clubs. Migrated the data layer to the iScore/Trackman APIs, consolidated 10+ analytics widgets onto AWS ECS Fargate and Lambda behind a single load balancer, and built per-widget CI/CD with GitHub Actions.
