@@ -1,4 +1,4 @@
-# hey, i'm evan
+# hey, i'm evan 🤙
 
 <img align="right" width="462" src="https://skillicons.dev/icons?i=py,ts,js,java,go,c,cpp,pytorch,sklearn,opencv,react,nextjs,nodejs,fastapi,postgres,aws,docker,githubactions,linux,git&perline=11" alt="languages and frameworks" />
 
