@@ -4,9 +4,9 @@
 
 - cs @ [johns hopkins](https://www.cs.jhu.edu)
 - co-founder @ [mira](https://www.trymira.app)
-- swe intern @ [jhu applied physics lab](https://www.jhuapl.edu)
-- data engineer @ [jhu sports analytics](https://sports-analytics.cs.jhu.edu) ([slugger](https://www.alpb-analytics.com))
-- swe intern @ [narb](https://narb.cc/nexus), 0 to 15k users in 2 weeks
+- 2x swe intern @ [jhu applied physics lab](https://www.jhuapl.edu)
+- side project @ baseline sports, $XX,XXX rev
 - software lead @ [icrutch](https://www.bme.jhu.edu/news-events/news/stabilizing-nystagmus-symptoms-with-ai-powered-smart-glasses/), patent pending
-- side project @ baseline sports (nfl ml models)
+- researcher @ [jhu sports analytics](https://sports-analytics.cs.jhu.edu) ([slugger](https://www.alpb-analytics.com))
+- swe intern @ [narb](https://narb.cc/nexus), 0 to 15k users in 2 weeks
 - [linkedin](https://www.linkedin.com/in/evan-batten/) · [ebatten28@gmail.com](mailto:ebatten28@gmail.com)
